@@ -1,3 +1,11 @@
+@font-face {
+  font-family: YuGothic;
+  src: url("../YuGothic/YuGothic/YuGothic-Bold.otf");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("../Montserrat/Montserrat-Bold.ttf");
+}
 hmtl {
   font-size: 16px;
 }

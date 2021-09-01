@@ -140,8 +140,10 @@ body {
 
   .popup-static {
     display: block !important;
-    width: 190px;
-    height: 190px;
+    width: 120px;
+    height: 120px;
+    font-size: 1.2rem !important;
+    padding: 32px 15px;
   }
 
   .container {
